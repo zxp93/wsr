@@ -1,5 +1,3 @@
-# wsr_project
-
 # The source code for WSR.
 
 Python Version: 3.5.6
